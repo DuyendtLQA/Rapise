@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 15:08:23.930"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-15 15:08:25.048"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 15:08:25.052"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 15:08:25.200"><data type="text" caption="Exception">TypeError(-2146823279): &apos;testSet&apos; is undefined</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(5,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(5,1)"/>
+<data type="text">Global.DoRunTestSet(Global.GetFullPath(&quot;TestSetCritical.js&quot;))</data>
+</log>
+<log type="Test" name="PoM" status="Fail" closed="PoM" _guid="undefined"  at="2023-06-15 15:08:25.203" comment="Passed:0 Failed:1 Time:0.272s" />

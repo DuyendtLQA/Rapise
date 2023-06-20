@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 09:56:56.374"/>
+<log type="Test" name="TC02" status="Info"  at="2023-06-15 09:56:57.509"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 09:56:57.513"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 09:56:57.515"><data type="text" caption="Exception">TypeError(-2146827850): Object doesn&apos;t support this property or method</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\Main.js(5,2)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\Main.js(5,2)"/>
+<data type="text">Ses.abc()</data>
+</log>
+<log type="Test" name="TC02" status="Fail" closed="TC02" _guid="undefined"  at="2023-06-15 09:56:57.518" comment="Passed:0 Failed:1 Time:0.116s" />

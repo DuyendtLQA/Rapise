@@ -1,0 +1,7 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 13:39:53.885"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-15 13:39:55.294"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 13:39:55.298"/>
+<log type="Assert" name="Global.DoKillByPid: 9592" status="Info" realStatus="Pass"  at="2023-06-15 13:39:55.780"/>
+<log type="Assert" name="Username.DoSetText([&quot;fffff&quot;])" status="Pass"  at="2023-06-15 13:40:03.247" comment="Returned Value: true" />
+<log type="Test" name="PoM" status="Pass" closed="PoM" _guid="undefined"  at="2023-06-15 13:40:03.251" comment="Passed:1 Failed:0 Time:8.068s" />

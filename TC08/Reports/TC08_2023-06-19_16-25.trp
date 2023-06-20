@@ -1,0 +1,8 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 16:24:59.110"/>
+<log type="Test" name="TC08" status="Info"  at="2023-06-19 16:25:00.287"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 16:25:00.291"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC08\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 16:25:00.292"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC08\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 11908" status="Info" realStatus="Pass"  at="2023-06-19 16:25:00.883"/>

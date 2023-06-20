@@ -1,0 +1,32 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 15:43:39.611"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 15:43:40.710"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 15:43:40.714"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 15:43:40.721"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 10160" status="Info" realStatus="Pass"  at="2023-06-19 15:43:41.175"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 15:43:49.010"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-19 15:43:50.490" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-19 15:43:51.891" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-19 15:43:53.373" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-19 15:43:54.950" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-19 15:43:56.410" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-19 15:43:57.957" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-19 15:44:02.945" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-19 15:44:02.951"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="product.DoClick([])" status="Pass"  at="2023-06-19 15:44:06.494" comment="Returned Value: true" />
+<log type="Assert" name="Object is not found: &lt;a href=&apos;showobject&apos;&gt;btnAddCart&lt;/a&gt;" status="Fail"  at="2023-06-19 15:44:16.821"><data type="text" caption="What">&lt;b&gt;What happened:&lt;/b&gt; Object is not found: &lt;a href=&apos;showobject&apos;&gt;btnAddCart&lt;/a&gt;</data>
+<data type="text" caption="Why">&lt;b&gt;Why:&lt;/b&gt; Object is not available on screen or Location property of the object is invalid.</data>
+<data type="text" caption="Next Step">&lt;b&gt;Next step:&lt;/b&gt; If there is a load delay before the application displays the object try to &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB301.aspx&apos;&gt;slow down test execution&lt;/a&gt;. To check that &lt;a href=&apos;showxpath:btnAddCart&apos;&gt;Location&lt;/a&gt; of the object is valid &lt;a href=&apos;flashobject:btnAddCart&apos;&gt;Flash&lt;/a&gt; it.</data>
+<data type="link" url="https://rapisedoc.inflectra.com/Guide/object_not_found/" text="Object Is Not Found - How To Fix"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB375.aspx" text="KB375: How to check that Rapise can find the object on screen"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB301.aspx" text="KB301: Ways to slow down test execution"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB376.aspx" text="KB376: What is object Location?"/>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,7,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,7,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-19 15:44:16.824" comment="Passed:11 Failed:1 Time:36.21s" />

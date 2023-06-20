@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserSettings>
+  <ArrayOfFlexDictionaryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <FlexDictionaryEntry name="TestTree" type="SmarteStudio.Test.FlexDictionary">
+      <FlexDictionary>
+        <ArrayOfFlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test" type="System.Boolean">
+            <boolean>true</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.LoginPage" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginP\LoginP.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01\TC01.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Scripts" type="System.Boolean">
+            <boolean>true</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01\TC01.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\TC02.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\TC02.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Reports" type="System.Boolean">
+            <boolean>true</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.HomePage" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\TC03_CheckHomePage.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\TC03_CheckHomePage.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_Login_Pass\TC01_Login_Pass.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_Login_Pass\TC01_Login_Pass.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_Login_Pass\TC02_Login_Pass.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_Login_Pass\TC02_Login_Pass.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Common" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TestSetCritical\TestSetCritical.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\TC_SeleniumTest.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Page" type="System.Boolean">
+            <boolean>true</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\TC_SeleniumTest.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Test" type="System.Boolean">
+            <boolean>true</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Page.LoginPage" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Page.HomePage" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_LoginPass\TC01_LoginPass.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\TC02_TestFail.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHome\TC03_CheckHome.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Page.Common" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\TC04_Selenium.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_LoginPass\TC01_LoginPass.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC05_DataDriven\TC05_DataDriven.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC05_DataDriven\TC05_DataDriven.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\TC02_TestFail.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\TC04_Selenium.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_LoginFail\TC02_LoginFail.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_LoginFail\TC02_LoginFail.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Test.Login" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_Login_P\TC01_Login_P.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_Login_F\TC02_Login_F.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Test.Home" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckSearch\TC03_CheckSearch.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\TC06_e2e.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\TC06_e2e.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\abc\abc.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\Login\Login.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\LoginPass.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\TC06.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\TC06.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\CreateProduct\CreateProduct.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProduct\AddProduct.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\AddProducts.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Payment.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\TC07.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\TC07.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\EditInforPayment.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\TC08.sstest.Test" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\TC08.sstest.Test.Reports" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="C:\Users\LQA\Documents\My Rapise Tests\PoM\PoM.sstest.Test.Reports.2023-06-20_15-39-05" type="System.Boolean">
+            <boolean>false</boolean>
+          </FlexDictionaryEntry>
+        </ArrayOfFlexDictionaryEntry>
+      </FlexDictionary>
+    </FlexDictionaryEntry>
+    <FlexDictionaryEntry name="DebugWatches" type="SmarteStudio.Test.StringList">
+      <ArrayOfString />
+    </FlexDictionaryEntry>
+    <FlexDictionaryEntry name="OpenDocuments" type="SmarteStudio.Test.StringList">
+      <ArrayOfString>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.rvl.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\TC05_DataDriven\Main.js</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\DataLogin.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\DataDriven.xlsx</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\RegressionTest.js</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\testDataJson.json</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-20_15-43.trp</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-16_11-21.trp</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-15_15-37.trp</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-15_14-58.trp</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-15_15-12.trp</string>
+        <string>C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\PoM_2023-06-15_15-38.trp</string>
+      </ArrayOfString>
+    </FlexDictionaryEntry>
+    <FlexDictionaryEntry name="Status" type="SmarteStudio.Test.FlexDictionary">
+      <FlexDictionary>
+        <ArrayOfFlexDictionaryEntry>
+          <FlexDictionaryEntry name="Status" type="System.String">
+            <string>Fail</string>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="Pass" type="System.Int32">
+            <int>0</int>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="Fail" type="System.Int32">
+            <int>2</int>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="Unresolved" type="System.Int32">
+            <int>1</int>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="Todo" type="System.Int32">
+            <int>0</int>
+          </FlexDictionaryEntry>
+        </ArrayOfFlexDictionaryEntry>
+      </FlexDictionary>
+    </FlexDictionaryEntry>
+    <FlexDictionaryEntry name="Files" type="SmarteStudio.Test.FlexDictionary">
+      <FlexDictionary>
+        <ArrayOfFlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>24</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>7</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>37</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>13</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\user.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\loginp\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>3</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>11</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01\user.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\user1.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>9</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>4</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>4</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02\user.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>2</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objects1.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objectlocator.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>17</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>109</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\funcpage.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>40</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc03_checkhomepage\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>20</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\funclogin.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers>
+                      <FoldMarker startLine="23" startColumn="25" endLine="37" endColumn="0" isFolded="true" />
+                    </FoldingMarkers>
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>21</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>16</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objectslogin.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>27</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>118</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\funchome.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>25</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>16</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objectshome.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\funccommon.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>15</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>38</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\objectscommon.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01_login_pass\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>24</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>12</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02_login_pass\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>14</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\testsetcritial.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>25</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\testsetcritical.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\testsetcritical\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\runtest.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>24</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>6</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc_seleniumtest\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>39</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>15</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc_seleniumtest\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>4</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01_loginpass\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>14</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02_testfail\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>10</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc03_checkhome\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>20</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc04_selenium\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc05_datadriven\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>14</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>14</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc04_selenium\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02_loginfail\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>25</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\regessiontest.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>7</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc01_login_p\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc02_login_f\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>10</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>13</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\regressiontest.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>6</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc03_checksearch\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>20</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc06_e2e\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>12</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\main.rvl.xlsx" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Row" type="System.Int32">
+                  <int>6</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Col" type="System.Int32">
+                  <int>2</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\abc\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>6</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\loginpass\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>9</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc06\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>10</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\loginpass\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>2</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>131</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc06\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>29</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>19</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\createproduct\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>11</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>4</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\addproduct\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>12</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>11</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\createproduct\main.rvl.xlsx" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Row" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Col" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\addproducts\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>35</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>324</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\payment\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>28</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>348</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc07\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>2</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>625</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc07\main.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\editinforpayment\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>false</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc08\objects.js" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>2</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>625</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\tc07\main.rvl.xlsx" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Row" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Col" type="System.Int32">
+                  <int>1</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="c:\users\lqa\documents\my rapise tests\pom\testdatajson.json" type="SmarteStudio.Test.FlexDictionary">
+            <FlexDictionary>
+              <ArrayOfFlexDictionaryEntry>
+                <FlexDictionaryEntry name="Folding" type="SmarteStudio.Editor.FoldingStrategy.JsFoldingStrategy">
+                  <JsFoldingStrategy>
+                    <IsJson>true</IsJson>
+                    <FoldingMarkers />
+                  </JsFoldingStrategy>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="Breakpoints" type="System.Collections.Generic.List`1[[SmarteStudio.Debugger.BreakPointInfo, SeSIDE.Debugger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]">
+                  <ArrayOfBreakPointInfo />
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretX" type="System.Int32">
+                  <int>0</int>
+                </FlexDictionaryEntry>
+                <FlexDictionaryEntry name="CaretY" type="System.Int32">
+                  <int>4</int>
+                </FlexDictionaryEntry>
+              </ArrayOfFlexDictionaryEntry>
+            </FlexDictionary>
+          </FlexDictionaryEntry>
+        </ArrayOfFlexDictionaryEntry>
+      </FlexDictionary>
+    </FlexDictionaryEntry>
+    <FlexDictionaryEntry name="Debugger" type="SmarteStudio.Test.FlexDictionary">
+      <FlexDictionary>
+        <ArrayOfFlexDictionaryEntry>
+          <FlexDictionaryEntry name="DebugMode" type="System.String">
+            <string>NoDebugger</string>
+          </FlexDictionaryEntry>
+          <FlexDictionaryEntry name="Verbose" type="System.Int32">
+            <int>1</int>
+          </FlexDictionaryEntry>
+        </ArrayOfFlexDictionaryEntry>
+      </FlexDictionary>
+    </FlexDictionaryEntry>
+  </ArrayOfFlexDictionaryEntry>
+</UserSettings>

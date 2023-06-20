@@ -1,0 +1,10 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-14 17:51:08.023"/>
+<log type="Test" name="TC01" status="Info"  at="2023-06-14 17:51:09.260"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-14 17:51:09.263"/>
+<log type="Message" name="Global.DoLoadObjects: ..\..\Scripts\Objects.js" status="Info"  at="2023-06-14 17:51:09.267"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-14 17:51:09.269"><data type="text" caption="Exception">TypeError(-2146823281): Object expected</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01\Main.js(7,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01\Main.js(7,1)"/>
+<data type="text">abc()</data>
+</log>
+<log type="Test" name="TC01" status="Fail" closed="TC01" _guid="undefined"  at="2023-06-14 17:51:09.272" comment="Passed:0 Failed:1 Time:0.12s" />

@@ -1,0 +1,27 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 16:16:15.272"/>
+<log type="Test" name="TC08" status="Info"  at="2023-06-19 16:16:16.389"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 16:16:16.393"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC08\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 16:16:16.396"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC08\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 4092" status="Info" realStatus="Pass"  at="2023-06-19 16:16:16.850"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 16:16:24.093"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-19 16:16:25.550" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-19 16:16:26.939" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-19 16:16:28.344" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-19 16:16:29.867" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-19 16:16:31.261" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-19 16:16:32.782" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-19 16:16:37.347" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-19 16:16:37.351"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 16:17:00.049"><data type="text" caption="Exception">Error(-2146233088): disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=114.0.5735.134)</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,5,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,5,1)"/>
+</log>
+<log type="Test" name="TC08" status="Fail" closed="TC08" _guid="undefined"  at="2023-06-19 16:17:00.070" comment="Passed:10 Failed:1 Time:43.754s" />

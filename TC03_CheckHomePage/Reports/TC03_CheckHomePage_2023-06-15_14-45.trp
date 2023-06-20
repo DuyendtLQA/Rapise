@@ -1,0 +1,14 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:44:55.053"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 14:44:56.214"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Global.DoLoadObjects: ObjectsHome.js" status="Info"  at="2023-06-15 14:44:56.219"/>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-15 14:44:56.222"/>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:45:03.441"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 14:45:03.449"><data type="text" caption="Exception">TypeError(-2146823281): Object expected</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(17,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(17,1)"/>
+<data type="text">checkSearch()</data>
+</log>
+<log type="Assert" name="Failure in TestFinish" status="Fail"  at="2023-06-15 14:45:03.454"><data type="text" caption="Exception">TypeError(-2146823281): Object expected</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(11,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(11,1)"/>
+<data type="text">closeBr()</data>
+</log>

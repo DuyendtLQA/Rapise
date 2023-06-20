@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:59:04.586"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-15 14:59:05.779"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:59:05.783"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 14:59:06.609"><data type="text" caption="Exception">SyntaxError(-2146827285): Expected &apos;:&apos;</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(5,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(5,1)"/>
+<data type="text">Global.DoRunTestSet(&apos;TestSetCritial.js&apos;);</data>
+</log>
+<log type="Test" name="PoM" status="Fail" closed="PoM" _guid="undefined"  at="2023-06-15 14:59:06.612" comment="Passed:0 Failed:1 Time:0.949s" />

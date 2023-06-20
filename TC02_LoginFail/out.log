@@ -1,0 +1,125 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###TC02_TestFail (-2)
+###Check Home Page (-2)
+###Attaching to spreadsheet (1)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+###Starting scenario: Test (-2)
+###Global.DoLoadObjects: ObjectsLogin.js (-2)
+[object Object],[object Object]
+Looking for object:Username
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Username(HTMLObject)[-1]
+Username.DoSetText(["abc"])
+###Username.DoSetText(["abc"]) (1)
+Action result:true
+Looking for object:HTML
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:HTML(HTMLObject)[-1]
+HTML.DoClick([])
+###HTML.DoClick([]) (1)
+Action result:true
+Looking for object:Username
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Username(HTMLObject)[-1]
+Username.DoClick([])
+###Username.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText([123])
+###Password.DoSetText([123]) (1)
+Action result:true
+Looking for object:op
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:op(HTMLObject)[-1]
+op.DoClick([])
+###op.DoClick([]) (1)
+Action result:true
+Looking for object:Username
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Username(HTMLObject)[-1]
+Username.DoSetText(["qweeee"])
+###Username.DoSetText(["qweeee"]) (1)
+Action result:true
+Looking for object:HTML
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:HTML(HTMLObject)[-1]
+HTML.DoClick([])
+###HTML.DoClick([]) (1)
+Action result:true
+Looking for object:Username
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Username(HTMLObject)[-1]
+Username.DoClick([])
+###Username.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText([34555])
+###Password.DoSetText([34555]) (1)
+Action result:true
+Looking for object:op
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:op(HTMLObject)[-1]
+op.DoClick([])
+###op.DoClick([]) (1)
+Action result:true
+Failed to kill selenium driver process with pid: 12748
+###TC02_TestFail (1)
+Test execution done
+##############################################################
+Test Pass: TC02_TestFail,  (Passed:13 Failed:0 Time:37.301s)
+Test Session Status: Pass Time: 39.257s
+##############################################################

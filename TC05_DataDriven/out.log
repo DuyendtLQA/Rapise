@@ -1,0 +1,48 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###TC05_DataDriven (-2)
+###Starting scenario: Test (-2)
+###Attaching to spreadsheet (1)
+Stt: 1 Name: Anh Age: 23
+Stt: 2 Name: Anhs Age: 20
+Stt: 3 Name: Anhsv Age: 21
+###TC05_DataDriven (1)
+Test execution done
+##############################################################
+Test Pass: TC05_DataDriven,  (Passed:1 Failed:0 Time:0.16s)
+Test Session Status: Pass Time: 1.994s
+##############################################################

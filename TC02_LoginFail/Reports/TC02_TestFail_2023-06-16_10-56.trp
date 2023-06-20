@@ -1,0 +1,8 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:56:31.971"/>
+<log type="Test" name="TC02_TestFail" status="Info"  at="2023-06-16 10:56:33.064"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js</data>
+</log>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-16 10:56:33.066"/>
+<log type="Assert" name="Attaching to spreadsheet" status="Pass"  at="2023-06-16 10:56:33.097" comment="C:\Users\LQA\Documents\My Rapise Tests\PoM\DataLogin.xlsx" />
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 10:56:47.876"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsLogin.js" status="Info"  at="2023-06-16 10:56:47.879"/>
+<log type="Test" name="TC02_TestFail" status="Pass" closed="TC02_TestFail" _guid="undefined"  at="2023-06-16 10:56:48.049" comment="Passed:1 Failed:0 Time:15.095s" />

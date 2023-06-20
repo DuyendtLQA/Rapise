@@ -1,0 +1,284 @@
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###TC06 (-2)
+###Starting scenario: Test (-2)
+###Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.rvl.xlsx
+SetRowIndex: 0:28
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.rvl.xlsx:RVL, 29 source rows 0 errors
+Looking for object:Navigator
+###Global.DoKillByPid: 8828 (-2)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:RVL
+###Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx
+SetRowIndex: 0:28
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx:RVL, 29 source rows 0 errors
+Looking for object:Đăng_nhập
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Đăng nhập(HTMLObject)[-1]
+Đăng_nhập.DoClick([])
+###Đăng_nhập.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoClick([])
+###user_login.DoClick([]) (1)
+Action result:true
+Looking for object:LI
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:LI(HTMLObject)[-1]
+LI.DoClick([])
+###LI.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoSetText(["fdsfd@gmail.com"])
+###user_login.DoSetText(["fdsfd@gmail.com"]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoClick([])
+###password.DoClick([]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoSetText(["FzZfPVS4wp5z@6S"])
+###password.DoSetText(["FzZfPVS4wp5z@6S"]) (1)
+Action result:true
+Looking for object:ÐĂNG_NHẬP
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:ÐĂNG NHẬP(HTMLObject)[-1]
+ÐĂNG_NHẬP.DoClick([])
+###ÐĂNG_NHẬP.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx
+SetRowIndex: 0:29
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx:RVL, 30 source rows 0 errors
+Looking for object:Navigator
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:product
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:DIV(HTMLObject)[-1]
+product.DoClick([])
+###product.DoClick([]) (1)
+Action result:true
+Looking for object:btnAddCart
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:THÊM VÀO GIỎ HÀNG(HTMLObject)[-1]
+btnAddCart.DoClick([])
+###btnAddCart.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\Payment\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Main.rvl.xlsx
+SetRowIndex: 0:27
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Main.rvl.xlsx:RVL, 28 source rows 0 errors
+Looking for object:Đặt_hàng
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Đặt hàng(HTMLObject)[-1]
+Đặt_hàng.DoClick([])
+###Đặt_hàng.DoClick([]) (1)
+Action result:true
+Looking for object:submit
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+ERROR in SeSTryMatch/getMatchedObject/getMatchedObject:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)
+MatchedObject:null
+Object is NOT available on screen:submit (submit)
+###Object is not found: <a href='showobject'>submit</a> (0)
+Test stopped on error: Object is not found: <a href='showobject'>submit</a>
+###TC06 (0)
+Test execution done
+##############################################################
+Test Fail: TC06,  (Passed:14 Failed:1 Time:40.99s)
+Test Session Status: Fail Time: 42.353s
+##############################################################

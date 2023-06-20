@@ -1,0 +1,373 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Recorder Starting...
+
+Rapise Version:7.4.27.74
+Verbose level:1
+Recording script file:C:\Users\LQA\Documents\My Rapise Tests\PoM\CreateProduct\Main.js
+Recording window title:regex:.* class:regex:.*
+Creating a locator:HTML
+Creating a locator:HTML FPP
+started:1687156671930
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+Failed to kill selenium driver process with pid: 6032
+SeSRequestString: Browser URL returned: https://www.hotdeal.vn/ho-chi-minh/
+###Action[1]:Open initial URL in browser
+Using default WebAppProfile
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Attach result: Rapise WebSpy code embedded into Selenium
+Attempt: 1 obj at point:  HWND at point 1397, 209: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+No such pattern: ValuePattern
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Link",
+    "name": "Dang nh?p",
+    "text": "Dang nh?p",
+    "xpath": "//li[@id='login-popup-header-form']/a[@href='#']",
+    "opts": [],
+    "description": "Click on Dang nh?p",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1344,
+      "y": 205,
+      "w": 64,
+      "h": 15,
+      "cx": 1326,
+      "cy": 70,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//li[@id='login-popup-header-form']/a[@href='#']",
+  "frame": ""
+}
+###Action[2]:Click on Dang nh?p
+Attempt: 1 obj at point:  HWND at point 1270, 311: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": [],
+    "description": "Click on user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+###Action[3]:Click on user_login
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "SetText",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": "Chon san pham",
+    "description": "Set Text Chon san pham in user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+###Action[4]:Set Text Chon san pham in user_login
+Attempt: 1 obj at point:  HWND at point 1476, 269: 	sendKeys(inputUser,'fdsfd@gmail.com')
+	sendKeys(inputPass,'FzZfPVS4wp5z@6S')
+
+fdsfd@gmail.com
+FzZfPVS4wp5z@6S[Edit] PID:3732
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Text Editor(UIAObject)[-1]
+HighLighted
+###Action[5]:User clicks on 'Text Editor'
+Attempt: 1 obj at point:  HWND at point 1709, 156: *Untitled - Notepad[Notepad] PID:3732
+objFramework: Not supported
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Minimize(UIAButton)[-1]
+HighLighted
+OnPress:Minimize(UIAButton)[-1]
+###Action[6]:Press button 'Minimize'
+Attempt: 1 obj at point:  HWND at point 1701, 154: *Untitled - Notepad[Notepad] PID:3732
+objFramework: Not supported
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Minimize(UIAButton)[-1]
+HighLighted
+OnPress:Minimize(UIAButton)[-1]
+###Action[7]:Press button 'Minimize'
+Attempt: 1 obj at point:  HWND at point 1373, 315: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Generic",
+    "name": "LI",
+    "text": "\n        \n            DANG NH?P\n        \n        \n            \n                \n                    \n                   ...",
+    "xpath": "//ul[@id='login-popup-header']/li",
+    "opts": [],
+    "description": "Click on LI",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1059,
+      "y": 241,
+      "w": 348,
+      "h": 358,
+      "cx": 1041,
+      "cy": 106,
+      "visible": true,
+      "partial": true,
+      "behind": true,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//ul[@id='login-popup-header']/li",
+  "frame": ""
+}
+###Action[8]:Click on LI
+Attempt: 1 obj at point:  HWND at point 1223, 315: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": [],
+    "description": "Click on user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+###Action[9]:Click on user_login
+Attempt: 1 obj at point:  HWND at point 1223, 315: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": [],
+    "description": "Click on user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"user_login","text":"","xpath":"//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']","opts":[],"description":"Click on user_login","url":"https://www.hotdeal.vn/ho-chi-minh/","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":1117,"y":298,"w":275,"h":34,"cx":1099,"cy":163,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+Attempt: 1 obj at point:  HWND at point 1223, 315: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": [],
+    "description": "Click on user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"user_login","text":"","xpath":"//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']","opts":[],"description":"Click on user_login","url":"https://www.hotdeal.vn/ho-chi-minh/","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":1117,"y":298,"w":275,"h":34,"cx":1099,"cy":163,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+Attempt: 1 obj at point:  HWND at point 1223, 315: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:12692
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "user_login",
+    "text": "",
+    "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+    "opts": [],
+    "description": "Click on user_login",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 1117,
+      "y": 298,
+      "w": 275,
+      "h": 34,
+      "cx": 1099,
+      "cy": 163,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"user_login","text":"","xpath":"//input[@id='user_login' and @name='user_login' and @placeholder='Tˆn dang nh?p' and @type='text']","opts":[],"description":"Click on user_login","url":"https://www.hotdeal.vn/ho-chi-minh/","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":1117,"y":298,"w":275,"h":34,"cx":1099,"cy":163,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+Done:43431
+Wrote script to:C:\Users\LQA\Documents\My Rapise Tests\PoM\CreateProduct\Main.js
+All Done, bailing out

@@ -1,0 +1,11 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:01:47.047"/>
+<log type="Test" name="TC_SeleniumTest" status="Info"  at="2023-06-16 10:01:48.284"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 10:01:48.287"/>
+<log type="Assert" name="Text found in BODY" status="Pass"  at="2023-06-16 10:01:54.258"/>
+<log type="Assert" name="class is &apos;textbox&apos;" status="Pass" comment="textbox==textbox"  at="2023-06-16 10:01:55.330"><data type="text">AssertEqual</data>
+<data type="text">textbox</data>
+<data type="text">textbox</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 12852" status="Info" realStatus="Pass"  at="2023-06-16 10:01:56.430"/>
+<log type="Test" name="TC_SeleniumTest" status="Pass" closed="TC_SeleniumTest" _guid="undefined"  at="2023-06-16 10:01:56.478" comment="Passed:2 Failed:0 Time:8.33s" />

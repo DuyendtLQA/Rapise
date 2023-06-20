@@ -1,0 +1,10 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:10:46.590"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 14:10:47.841"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:10:47.846"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectLocator.js" status="Info"  at="2023-06-15 14:10:47.858"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 14:10:47.861"><data type="text" caption="Exception">TypeError(-2146823281): Object expected</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(9,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(9,1)"/>
+<data type="text">openBr();</data>
+</log>
+<log type="Test" name="TC03_CheckHomePage" status="Fail" closed="TC03_CheckHomePage" _guid="undefined"  at="2023-06-15 14:10:47.864" comment="Passed:0 Failed:1 Time:0.137s" />

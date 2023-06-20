@@ -1,0 +1,8 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:48:04.709"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 14:48:05.956"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-15 14:48:05.958"/>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:48:09.815"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsHome.js" status="Info"  at="2023-06-15 14:48:09.820"/>
+<log type="Assert" name="Global.DoKillByPid: 14112" status="Info" realStatus="Pass"  at="2023-06-15 14:48:10.071"/>
+<log type="Test" name="TC03_CheckHomePage" status="Unresolved" closed="TC03_CheckHomePage" _guid="undefined"  at="2023-06-15 14:48:10.109" comment="Passed:0 Failed:0 Time:4.273s" />

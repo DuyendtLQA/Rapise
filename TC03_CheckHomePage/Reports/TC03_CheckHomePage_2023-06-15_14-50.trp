@@ -1,0 +1,7 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:49:56.266"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 14:49:57.434"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-15 14:49:57.438"/>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:50:04.026"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsHome.js" status="Info"  at="2023-06-15 14:50:04.054"/>
+<log type="Test" name="TC03_CheckHomePage" status="Unresolved" closed="TC03_CheckHomePage" _guid="undefined"  at="2023-06-15 14:50:04.242" comment="Passed:0 Failed:0 Time:6.923s" />

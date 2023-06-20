@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 09:59:15.769"/>
+<log type="Test" name="TC_SeleniumTest" status="Info"  at="2023-06-16 09:59:16.903"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 09:59:16.905"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-16 09:59:16.907"><data type="text" caption="Exception">TypeError(-2146823281): &apos;this.d&apos; is null or not an object</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js(8,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js(8,1)"/>
+<data type="text">WebDriver.SetUrl(&apos;http://www.libraryinformationsystem.org&apos;);</data>
+</log>
+<log type="Test" name="TC_SeleniumTest" status="Fail" closed="TC_SeleniumTest" _guid="undefined"  at="2023-06-16 09:59:16.910" comment="Passed:0 Failed:1 Time:0.139s" />

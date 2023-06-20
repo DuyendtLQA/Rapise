@@ -1,0 +1,2 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:29:35.057"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2023-06-16 10:29:35.332" comment="Error evaluating script file C:\Users\LQA\Documents\My Rapise Tests\PoM\TC05_DataDriven\Main.js (syntax error): SyntaxError: Expected &apos;;&apos;" />

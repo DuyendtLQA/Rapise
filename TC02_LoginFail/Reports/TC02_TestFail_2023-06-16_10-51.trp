@@ -1,0 +1,5 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:51:27.478"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2023-06-16 10:51:27.746"><data type="text">Error evaluating script file C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js (syntax error): SyntaxError: Expected &apos;)&apos;</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js(3,0)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js(3,0)"/>
+<data type="text">eval(File.Include(&quot;FuncLogin.js&quot;))</data>
+</log>

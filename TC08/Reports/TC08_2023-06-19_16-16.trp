@@ -1,0 +1,13 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 16:16:08.198"/>
+<log type="Test" name="TC08" status="Info"  at="2023-06-19 16:16:09.420"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 16:16:09.430"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC08\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 16:16:09.437"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC08\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 16:16:10.052"><data type="text" caption="Exception">Error(-2146233088): no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.rvl.xlsx(RVL,3,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.rvl.xlsx(RVL,3,1)"/>
+</log>
+<log type="Test" name="TC08" status="Fail" closed="TC08" _guid="undefined"  at="2023-06-19 16:16:10.059" comment="Passed:1 Failed:1 Time:0.722s" />

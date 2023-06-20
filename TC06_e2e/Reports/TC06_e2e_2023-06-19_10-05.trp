@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 10:05:05.228"/>
+<log type="Test" name="TC06_e2e" status="Info"  at="2023-06-19 10:05:06.338"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 10:05:13.630"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 10:05:13.763"><data type="text" caption="Exception">TypeError(-2146827850): Object doesn&apos;t support this property or method</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js(15,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js(15,1)"/>
+<data type="text">sendKeys(&quot;#user_login&quot;,&apos;fdsfd@gmail.com&apos;)</data>
+</log>
+<log type="Test" name="TC06_e2e" status="Fail" closed="TC06_e2e" _guid="undefined"  at="2023-06-19 10:05:13.768" comment="Passed:0 Failed:1 Time:7.517s" />

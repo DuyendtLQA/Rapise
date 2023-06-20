@@ -1,0 +1,27 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 15:36:59.571"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 15:37:00.679"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 15:37:00.684"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 15:37:00.689"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 9940" status="Info" realStatus="Pass"  at="2023-06-19 15:37:01.170"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 15:37:09.016"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-19 15:37:10.529" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-19 15:37:12.409" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-19 15:37:13.847" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-19 15:37:15.412" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-19 15:37:16.858" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-19 15:37:18.402" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-19 15:37:21.712" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-19 15:37:21.719"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 15:37:21.883"><data type="text" caption="Exception">Error(-2146233088): no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.134)</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,5,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,5,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-19 15:37:21.887" comment="Passed:10 Failed:1 Time:21.296s" />

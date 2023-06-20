@@ -1,0 +1,6 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:49:26.246"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsHome.js" status="Info"  at="2023-06-15 14:49:26.546"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2023-06-15 14:49:26.552"><data type="text">Error evaluating script file C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js (syntax error): TypeError: &apos;g_object_info_map.length&apos; is null or not an object</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(4,0)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(4,0)"/>
+<data type="text">Global.DoLoadObjects(&quot;ObjectsHome.js&quot;);</data>
+</log>

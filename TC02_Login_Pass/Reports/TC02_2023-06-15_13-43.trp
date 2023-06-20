@@ -1,0 +1,6 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 13:43:39.528"/>
+<log type="Test" name="TC02" status="Info"  at="2023-06-15 13:43:40.643"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 13:43:40.645"/>
+<log type="Assert" name="Global.DoKillByPid: 8668" status="Info" realStatus="Pass"  at="2023-06-15 13:43:41.115"/>
+<log type="Test" name="TC02" status="Unresolved" closed="TC02" _guid="undefined"  at="2023-06-15 13:43:47.786" comment="Passed:0 Failed:0 Time:7.256s" />

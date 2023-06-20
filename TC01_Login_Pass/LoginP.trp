@@ -1,0 +1,12 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:17:53.421"/>
+<log type="Test" name="TC01_Login_Pass" status="Info"  at="2023-06-15 14:17:54.642"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC01_Login_Pass\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:17:54.645"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsLogin.js" status="Info"  at="2023-06-15 14:17:54.650"/>
+<log type="Assert" name="Username.DoSetText([&quot;xyzt&quot;])" status="Pass"  at="2023-06-15 14:18:02.673" comment="Returned Value: true" />
+<log type="Assert" name="HTML.DoClick([])" status="Pass"  at="2023-06-15 14:18:04.035" comment="Returned Value: true" />
+<log type="Assert" name="Username.DoClick([])" status="Pass"  at="2023-06-15 14:18:05.457" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-15 14:18:06.839" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;1234&quot;])" status="Pass"  at="2023-06-15 14:18:08.307" comment="Returned Value: true" />
+<log type="Assert" name="op.DoClick([])" status="Pass"  at="2023-06-15 14:18:11.382" comment="Returned Value: true" />
+<log type="Test" name="TC01_Login_Pass" status="Pass" closed="TC01_Login_Pass" _guid="undefined"  at="2023-06-15 14:18:12.595" comment="Passed:6 Failed:0 Time:18.071s" />

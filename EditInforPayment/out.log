@@ -1,0 +1,382 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Recorder Starting...
+
+Rapise Version:7.4.27.74
+Verbose level:1
+Recording script file:C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\Main.js
+Recording window title:regex:.* class:regex:.*
+Creating a locator:HTML
+Creating a locator:HTML FPP
+started:1687165077171
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+Using default WebAppProfile
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Attach result: Rapise WebSpy code embedded into Selenium
+Attempt: 1 obj at point:  HWND at point 339, 523: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Link",
+    "name": "S?a d?a ch?",
+    "text": "S?a d?a ch?",
+    "xpath": "//div[2]/div[1]/div/div/div/a[2]",
+    "opts": [],
+    "description": "Click on S?a d?a ch?",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 278,
+      "y": 499,
+      "w": 97,
+      "h": 34,
+      "cx": 260,
+      "cy": 364,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//div[2]/div[1]/div/div/div/a[2]",
+  "frame": ""
+}
+###Action[1]:Click on S?a d?a ch?
+Attempt: 1 obj at point:  HWND at point 221, 338: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "H? tˆn",
+    "text": "",
+    "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+    "opts": [],
+    "description": "Click on H? tˆn",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 303,
+      "w": 393,
+      "h": 46,
+      "cx": 86,
+      "cy": 168,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+  "frame": ""
+}
+###Action[2]:Click on H? tˆn
+Attempt: 1 obj at point:  HWND at point 217, 318: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+Attempt: 1 obj at point:  HWND at point 217, 318: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "H? tˆn",
+    "text": "",
+    "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+    "opts": [],
+    "description": "Click on H? tˆn",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 303,
+      "w": 393,
+      "h": 46,
+      "cx": 86,
+      "cy": 168,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"H? tˆn","text":"","xpath":"//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']","opts":[],"description":"Click on H? tˆn","url":"https://www.hotdeal.vn/checkout-step-2","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":104,"y":303,"w":393,"h":46,"cx":86,"cy":168,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "H? tˆn",
+    "text": "",
+    "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+    "opts": [],
+    "description": "Click on H? tˆn",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 303,
+      "w": 393,
+      "h": 46,
+      "cx": 86,
+      "cy": 168,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"H? tˆn","text":"","xpath":"//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']","opts":[],"description":"Click on H? tˆn","url":"https://www.hotdeal.vn/checkout-step-2","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":104,"y":303,"w":393,"h":46,"cx":86,"cy":168,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+Attempt: 1 obj at point:  HWND at point 217, 318: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Text",
+    "name": "H? tˆn",
+    "text": "",
+    "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+    "opts": [],
+    "description": "Click on H? tˆn",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 303,
+      "w": 393,
+      "h": 46,
+      "cx": 86,
+      "cy": 168,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+  "frame": ""
+}
+Skip event, already recorded:{"event":"Click","flavor":"Text","name":"H? tˆn","text":"","xpath":"//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']","opts":[],"description":"Click on H? tˆn","url":"https://www.hotdeal.vn/checkout-step-2","title":"Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?","object_type":null,"rect":{"x":104,"y":303,"w":393,"h":46,"cx":86,"cy":168,"visible":true,"partial":false,"devicePixelRatio":1,"cxr":null,"cyr":null,"loading":null},"fullpath":"","shadowRoot":false}
+Attempt: 1 obj at point:  HWND at point 130, 727: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "SetText",
+    "flavor": "Text",
+    "name": "H? tˆn",
+    "text": "",
+    "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+    "opts": "fgdhfhg",
+    "description": "Set Text fgdhfhg in H? tˆn",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 303,
+      "w": 393,
+      "h": 46,
+      "cx": 86,
+      "cy": 168,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//input[@name='address[1][name]' and @placeholder='H? tˆn ngu?i nh?n' and @type='text']",
+  "frame": ""
+}
+###Action[3]:Set Text fgdhfhg in H? tˆn
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Button",
+    "name": "C?p nh?t",
+    "text": "C?p nh?t",
+    "xpath": "//form/div[1]/div[2]/div/button[@type='button'][1]",
+    "opts": [],
+    "description": "Click on C?p nh?t",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 104,
+      "y": 709,
+      "w": 83,
+      "h": 34,
+      "cx": 86,
+      "cy": 574,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//form/div[1]/div[2]/div/button[@type='button'][1]",
+  "frame": ""
+}
+###Action[4]:Click on C?p nh?t
+Attempt: 1 obj at point:  HWND at point 791, 654: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:10808
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Button",
+    "name": "submit",
+    "text": "TI?P T?C",
+    "xpath": "//button[@id='btn--buy-now' and @name='submit' and @type='button']",
+    "opts": [],
+    "description": "Click on submit",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 647,
+      "y": 620,
+      "w": 280,
+      "h": 49,
+      "cx": 629,
+      "cy": 485,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//button[@id='btn--buy-now' and @name='submit' and @type='button']",
+  "frame": ""
+}
+###Action[5]:Click on submit
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Button",
+    "name": "TI?P T?C",
+    "text": "TI?P T?C",
+    "xpath": "//div[3]/button[@type='submit']",
+    "opts": [],
+    "description": "Click on TI?P T?C",
+    "url": "https://www.hotdeal.vn/checkout-step-2",
+    "title": "Hot Deal: C—ng mua chung theo nh¢m, mua deal khuy?n mai gi  r?",
+    "object_type": null,
+    "rect": {
+      "x": 18,
+      "y": 135,
+      "w": 0,
+      "h": 0,
+      "cx": 0,
+      "cy": 0,
+      "visible": true,
+      "partial": true,
+      "behind": true,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//div[3]/button[@type='submit']",
+  "frame": ""
+}
+###Action[6]:Click on TI?P T?C
+Done:27425
+RVL steps serialized as: C:\Users\LQA\Documents\My Rapise Tests\PoM/\EditInforPayment\Main.rvl.xlsx.json
+Wrote script to:C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\Main.js
+All Done, bailing out

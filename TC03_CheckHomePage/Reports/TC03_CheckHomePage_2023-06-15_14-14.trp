@@ -1,0 +1,15 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:13:53.115"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 14:13:54.294"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 14:13:54.301"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectLocator.js" status="Info"  at="2023-06-15 14:13:54.314"/>
+<log type="Assert" name="Object does not exist in the object repository: Username" status="Fail"  at="2023-06-15 14:14:01.666"><data type="text" caption="What">&lt;b&gt;What happened:&lt;/b&gt; Object does not exist in the object repository: Username</data>
+<data type="text" caption="Why">&lt;b&gt;Why:&lt;/b&gt; Either object Id is misspelled or object repository is not loaded</data>
+<data type="text" caption="Next Step">&lt;b&gt;Next step:&lt;/b&gt; Enter object Id into the &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx&apos;&gt;filter box&lt;/a&gt; to check that the object exists in the object repository of the current test. If you &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx&apos;&gt;load objects from additional repositories&lt;/a&gt; check that object exists there and repositories are loaded successfully.</data>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx" text="KB377: How to find an object in the object tree"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx" text="KB185 Invoke Global.DoLoadObjects to use objects from external file (repository)"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB19.aspx" text="KB19 How to successfully include and use common functions and objects"/>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(10,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js(10,1)"/>
+<data type="text">logIn(&apos;abc&apos;, &apos;123&apos;)</data>
+</log>
+<log type="Test" name="TC03_CheckHomePage" status="Fail" closed="TC03_CheckHomePage" _guid="undefined"  at="2023-06-15 14:14:01.676" comment="Passed:0 Failed:1 Time:7.487s" />

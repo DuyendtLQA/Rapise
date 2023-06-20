@@ -1,0 +1,38 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-20 15:35:36.412"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-20 15:35:37.486"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-20 15:35:37.488"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-20 15:35:37.492"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 7300" status="Info" realStatus="Pass"  at="2023-06-20 15:35:37.973"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-20 15:35:46.114"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-20 15:35:47.687" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-20 15:35:49.097" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-20 15:35:50.552" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-20 15:35:52.120" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-20 15:35:53.574" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-20 15:35:55.117" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-20 15:36:00.301" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-20 15:36:00.305"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="product.DoClick([])" status="Pass"  at="2023-06-20 15:36:04.559" comment="Returned Value: true" />
+<log type="Assert" name="btnAddCart.DoClick([])" status="Pass"  at="2023-06-20 15:36:07.234" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\Payment\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-20 15:36:07.240"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\Payment\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đặt_hàng.DoClick([])" status="Pass"  at="2023-06-20 15:36:10.369" comment="Returned Value: true" />
+<log type="Assert" name="submit.DoClick([])" status="Pass"  at="2023-06-20 15:36:16.754" comment="Returned Value: true" />
+<log type="Assert" name="Object is not found: &lt;a href=&apos;showobject&apos;&gt;TIẾP_TỤC&lt;/a&gt;" status="Fail"  at="2023-06-20 15:36:27.181"><data type="text" caption="What">&lt;b&gt;What happened:&lt;/b&gt; Object is not found: &lt;a href=&apos;showobject&apos;&gt;TIẾP_TỤC&lt;/a&gt;</data>
+<data type="text" caption="Why">&lt;b&gt;Why:&lt;/b&gt; Object is not available on screen or Location property of the object is invalid.</data>
+<data type="text" caption="Next Step">&lt;b&gt;Next step:&lt;/b&gt; If there is a load delay before the application displays the object try to &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB301.aspx&apos;&gt;slow down test execution&lt;/a&gt;. To check that &lt;a href=&apos;showxpath:TIẾP_TỤC&apos;&gt;Location&lt;/a&gt; of the object is valid &lt;a href=&apos;flashobject:TIẾP_TỤC&apos;&gt;Flash&lt;/a&gt; it.</data>
+<data type="link" url="https://rapisedoc.inflectra.com/Guide/object_not_found/" text="Object Is Not Found - How To Fix"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB375.aspx" text="KB375: How to check that Rapise can find the object on screen"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB301.aspx" text="KB301: Ways to slow down test execution"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB376.aspx" text="KB376: What is object Location?"/>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Main.rvl.xlsx(RVL,4,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Payment\Main.rvl.xlsx(RVL,4,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-20 15:36:27.185" comment="Passed:15 Failed:1 Time:49.793s" />

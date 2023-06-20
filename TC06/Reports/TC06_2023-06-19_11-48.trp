@@ -1,0 +1,20 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 11:48:35.489"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 11:48:36.686"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 11:48:36.688"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 11:48:36.690"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 1872" status="Info" realStatus="Pass"  at="2023-06-19 11:48:37.309"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 11:48:44.437"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Object does not exist in the object repository: Đăng_nhập" status="Fail"  at="2023-06-19 11:48:44.471"><data type="text" caption="What">&lt;b&gt;What happened:&lt;/b&gt; Object does not exist in the object repository: Đăng_nhập</data>
+<data type="text" caption="Why">&lt;b&gt;Why:&lt;/b&gt; Either object Id is misspelled or object repository is not loaded</data>
+<data type="text" caption="Next Step">&lt;b&gt;Next step:&lt;/b&gt; Enter object Id into the &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx&apos;&gt;filter box&lt;/a&gt; to check that the object exists in the object repository of the current test. If you &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx&apos;&gt;load objects from additional repositories&lt;/a&gt; check that object exists there and repositories are loaded successfully.</data>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx" text="KB377: How to find an object in the object tree"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx" text="KB185 Invoke Global.DoLoadObjects to use objects from external file (repository)"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB19.aspx" text="KB19 How to successfully include and use common functions and objects"/>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx(RVL,2,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx(RVL,2,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-19 11:48:44.480" comment="Passed:2 Failed:1 Time:7.882s" />

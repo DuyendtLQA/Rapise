@@ -1,0 +1,12 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 15:36:44.762"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 15:36:46.057"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 15:36:46.059"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 15:36:46.061"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 15:36:54.901"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Execution terminated by user" status="Fail"  at="2023-06-19 15:36:55.139"><data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx(RVL,4,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx(RVL,4,1)"/>
+</log>

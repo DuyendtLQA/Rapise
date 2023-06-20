@@ -1,0 +1,11 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-20 15:38:56.678"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-20 15:38:57.949"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-20 15:38:57.951"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-20 15:39:05.246"><data type="text" caption="Exception">Error(-2147467261): Object reference not set to an instance of an object.</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(4,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(4,1)"/>
+<data type="text">Global.DoRunTestSet(&quot;RegressionTest.js&quot;);</data>
+</log>
+<log type="Message" name="Screen flow" status="Info"  at="2023-06-20 15:39:05.251"><data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\2023-06-20_15-39-05/index.html" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Reports\2023-06-20_15-39-05/index.html"/>
+</log>
+<log type="Test" name="PoM" status="Fail" closed="PoM" _guid="undefined"  at="2023-06-20 15:39:05.270" comment="Passed:0 Failed:1 Time:7.416s" />

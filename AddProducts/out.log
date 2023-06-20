@@ -1,0 +1,158 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Recorder Starting...
+
+Rapise Version:7.4.27.74
+Verbose level:1
+Recording script file:C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.js
+Recording window title:regex:.* class:regex:.*
+Creating a locator:HTML
+Creating a locator:HTML FPP
+started:1687160220626
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+Failed to kill selenium driver process with pid: 7164
+SeSRequestString: Browser URL returned: https://www.hotdeal.vn/ho-chi-minh/buffet-sang-trong/
+###Action[1]:Open initial URL in browser
+Using default WebAppProfile
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Attach result: Rapise WebSpy code embedded into Selenium
+Attempt: 1 obj at point:  HWND at point 945, 394: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:9596
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+No such pattern: ValuePattern
+Attempt: 1 obj at point:  HWND at point 505, 553: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:9596
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Mua Deal Buffet Sang Tr?ng Thom Ngon Gi  T?t(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Link",
+    "name": "Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng",
+    "text": "\n                                \n\n                \n                                    HOT\n                            ...",
+    "xpath": "//div[1]/a[@title='Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng' and @href='/ho-chi-minh/buffet-sang-trong/pullman-saigon-buffet-tom-hum-hai-san-thuong-hang-366913.html']",
+    "opts": [],
+    "description": "Click on Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/buffet-sang-trong/",
+    "title": "Mua Deal Buffet Sang Tr?ng Thom Ngon Gi  T?t",
+    "object_type": null,
+    "rect": {
+      "x": 364,
+      "y": 514,
+      "w": 280,
+      "h": 16,
+      "cx": 346,
+      "cy": 379,
+      "visible": true,
+      "partial": true,
+      "behind": true,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//div[1]/a[@title='Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng' and @href='/ho-chi-minh/buffet-sang-trong/pullman-saigon-buffet-tom-hum-hai-san-thuong-hang-366913.html']",
+  "frame": ""
+}
+###Action[2]:Click on Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng
+Using library defined WebAppProfile
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Generic",
+    "name": "BODY",
+    "text": "\n    \n        (function (i, s, o, g, r, a, m) {\n            i['GoogleAnalyticsObject'] = r;\n            i[r] = i[r] || f...",
+    "xpath": "//body",
+    "opts": [],
+    "description": "Click on BODY",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/buffet-sang-trong/pullman-saigon-buffet-tom-hum-hai-san-thuong-hang-366913.html",
+    "title": "Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng",
+    "object_type": null,
+    "rect": {
+      "x": 18,
+      "y": 135,
+      "w": 1271,
+      "h": 13521,
+      "cx": 0,
+      "cy": 0,
+      "visible": true,
+      "partial": true,
+      "behind": true,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//body",
+  "frame": ""
+}
+###Action[3]:Click on BODY
+Attempt: 1 obj at point:  HWND at point 909, 707: Chrome Legacy Window[Chrome_RenderWidgetHostHWND] PID:9596
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng(HTMLObject)[-1]
+HighLighted
+OnMouseEvent
+SeleniumRecorderAction:
+{
+  "action": "record",
+  "evt": {
+    "event": "Click",
+    "flavor": "Button",
+    "name": "THEM VAO GI? HANG",
+    "text": "\n                     THEM VAO GI? HANG\n                ",
+    "xpath": "//button[@id='add-to-cart']",
+    "opts": [],
+    "description": "Click on THEM VAO GI? HANG",
+    "url": "https://www.hotdeal.vn/ho-chi-minh/buffet-sang-trong/pullman-saigon-buffet-tom-hum-hai-san-thuong-hang-366913.html",
+    "title": "Pullman Saigon - Buffet T“m H—m, H?i S?n Thu?ng H?ng",
+    "object_type": null,
+    "rect": {
+      "x": 783,
+      "y": 687,
+      "w": 233,
+      "h": 40,
+      "cx": 765,
+      "cy": 552,
+      "visible": true,
+      "partial": false,
+      "devicePixelRatio": 1,
+      "cxr": null,
+      "cyr": null,
+      "loading": null
+    },
+    "fullpath": "",
+    "shadowRoot": false
+  },
+  "xpath": "//button[@id='add-to-cart']",
+  "frame": ""
+}
+###Action[4]:Click on THEM VAO GI? HANG
+Done:24638
+RVL steps serialized as: C:\Users\LQA\Documents\My Rapise Tests\PoM/\AddProducts\Main.rvl.xlsx.json
+Wrote script to:C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.js
+All Done, bailing out

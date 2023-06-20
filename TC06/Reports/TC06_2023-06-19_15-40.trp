@@ -1,0 +1,13 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 15:40:48.686"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 15:40:49.880"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 15:40:49.883"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 15:40:49.885"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 15:40:50.827"><data type="text" caption="Exception">Error(-2146233088): disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=114.0.5735.134)</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.rvl.xlsx(RVL,3,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.rvl.xlsx(RVL,3,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-19 15:40:50.830" comment="Passed:1 Failed:1 Time:1.064s" />

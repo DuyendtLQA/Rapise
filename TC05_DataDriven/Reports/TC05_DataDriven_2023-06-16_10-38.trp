@@ -1,0 +1,6 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:38:53.590"/>
+<log type="Test" name="TC05_DataDriven" status="Info"  at="2023-06-16 10:38:54.702"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC05_DataDriven\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 10:38:54.706"/>
+<log type="Assert" name="Attaching to spreadsheet" status="Pass"  at="2023-06-16 10:38:54.736" comment="C:\Users\LQA\Documents\My Rapise Tests\PoM\DataDriven.xlsx" />
+<log type="Test" name="TC05_DataDriven" status="Pass" closed="TC05_DataDriven" _guid="undefined"  at="2023-06-16 10:38:54.738" comment="Passed:1 Failed:0 Time:0.162s" />

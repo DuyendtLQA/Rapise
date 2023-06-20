@@ -1,0 +1,25 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 15:52:30.513"/>
+<log type="Test" name="TC07" status="Info"  at="2023-06-19 15:52:31.527"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: RVLSpecialEntryPoint" status="Info"  at="2023-06-19 15:52:31.530"/>
+<log type="Assert" name="Play RVL@%WORKDIR%TC07\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 15:52:31.532"><data type="text">RVL</data>
+<data type="text">%WORKDIR%TC07\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 9340" status="Info" realStatus="Pass"  at="2023-06-19 15:52:32.015"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 15:52:39.112"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-19 15:52:40.603" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-19 15:52:42.013" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-19 15:52:43.448" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-19 15:52:44.969" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-19 15:52:46.432" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-19 15:52:48.000" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-19 15:52:52.796" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-19 15:52:52.805"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="product.DoClick([])" status="Pass"  at="2023-06-19 15:52:56.792" comment="Returned Value: true" />
+<log type="Assert" name="btnAddCart.DoClick([])" status="Pass"  at="2023-06-19 15:52:59.496" comment="Returned Value: true" />
+<log type="Assert" name="btnAddCart.DoClick([])" status="Pass"  at="2023-06-19 15:53:00.922" comment="Returned Value: true" />
+<log type="Test" name="TC07" status="Pass" closed="TC07" _guid="undefined"  at="2023-06-19 15:53:00.925" comment="Passed:13 Failed:0 Time:29.489s" />

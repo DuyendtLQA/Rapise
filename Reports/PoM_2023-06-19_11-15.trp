@@ -1,0 +1,8 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 11:15:02.397"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-19 11:15:03.573"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 11:15:03.576"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 11:15:03.578"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Test" name="PoM" status="Pass" closed="PoM" _guid="undefined"  at="2023-06-19 11:15:09.626" comment="Passed:1 Failed:0 Time:6.145s" />

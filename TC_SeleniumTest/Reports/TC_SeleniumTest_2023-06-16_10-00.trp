@@ -1,0 +1,11 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:00:18.044"/>
+<log type="Test" name="TC_SeleniumTest" status="Info"  at="2023-06-16 10:00:19.162"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 10:00:19.164"/>
+<log type="Assert" name="Text found in BODY" status="Pass"  at="2023-06-16 10:00:24.684"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-16 10:00:25.428"><data type="text" caption="Exception">Error(-2146233088): invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=114.0.5735.134)</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js(16,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC_SeleniumTest\Main.js(16,1)"/>
+<data type="text">var userName = WebDriver.FindElementByCssSelector(&quot;html &gt; body &gt; form &gt; div:nth-oftype(3) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; fieldset &gt; p:first-of-type &gt; input&quot;);</data>
+</log>
+<log type="Test" name="TC_SeleniumTest" status="Fail" closed="TC_SeleniumTest" _guid="undefined"  at="2023-06-16 10:00:25.431" comment="Passed:1 Failed:1 Time:6.398s" />

@@ -1,0 +1,30 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 14:50:40.734"/>
+<log type="Test" name="TC06" status="Info"  at="2023-06-19 14:50:41.821"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 14:50:41.823"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 14:50:41.825"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\TC06\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 4556" status="Info" realStatus="Pass"  at="2023-06-19 14:50:42.305"/>
+<log type="Assert" name="Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;user&lt;/b&gt;=fdsfd@gmail.com&lt;br/&gt;&lt;b&gt;pass&lt;/b&gt;=FzZfPVS4wp5z@6S&lt;br/&gt;"  at="2023-06-19 14:50:50.006"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\\LoginPass\\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Đăng_nhập.DoClick([])" status="Pass"  at="2023-06-19 14:50:51.494" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoClick([])" status="Pass"  at="2023-06-19 14:50:52.931" comment="Returned Value: true" />
+<log type="Assert" name="LI.DoClick([])" status="Pass"  at="2023-06-19 14:50:54.348" comment="Returned Value: true" />
+<log type="Assert" name="user_login.DoSetText([&quot;fdsfd@gmail.com&quot;])" status="Pass"  at="2023-06-19 14:50:56.006" comment="Returned Value: true" />
+<log type="Assert" name="password.DoClick([])" status="Pass"  at="2023-06-19 14:50:57.431" comment="Returned Value: true" />
+<log type="Assert" name="password.DoSetText([&quot;FzZfPVS4wp5z@6S&quot;])" status="Pass"  at="2023-06-19 14:50:59.030" comment="Returned Value: true" />
+<log type="Assert" name="ÐĂNG_NHẬP.DoClick([])" status="Pass"  at="2023-06-19 14:51:03.584" comment="Returned Value: true" />
+<log type="Assert" name="Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx" status="Pass" comment="&lt;b&gt;productId&lt;/b&gt;=1&lt;br/&gt;"  at="2023-06-19 14:51:03.590"><data type="text">RVL</data>
+<data type="text">%WORKDIR%\AddProducts\Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Object does not exist in the object repository: product" status="Fail"  at="2023-06-19 14:51:05.791"><data type="text" caption="What">&lt;b&gt;What happened:&lt;/b&gt; Object does not exist in the object repository: product</data>
+<data type="text" caption="Why">&lt;b&gt;Why:&lt;/b&gt; Either object Id is misspelled or object repository is not loaded</data>
+<data type="text" caption="Next Step">&lt;b&gt;Next step:&lt;/b&gt; Enter object Id into the &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx&apos;&gt;filter box&lt;/a&gt; to check that the object exists in the object repository of the current test. If you &lt;a href=&apos;https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx&apos;&gt;load objects from additional repositories&lt;/a&gt; check that object exists there and repositories are loaded successfully.</data>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB377.aspx" text="KB377: How to find an object in the object tree"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB185.aspx" text="KB185 Invoke Global.DoLoadObjects to use objects from external file (repository)"/>
+<data type="link" url="https://www.inflectra.com/Support/KnowledgeBase/KB19.aspx" text="KB19 How to successfully include and use common functions and objects"/>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,6,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx(RVL,6,1)"/>
+</log>
+<log type="Test" name="TC06" status="Fail" closed="TC06" _guid="undefined"  at="2023-06-19 14:51:05.796" comment="Passed:10 Failed:1 Time:24.072s" />

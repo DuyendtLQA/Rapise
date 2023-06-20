@@ -1,0 +1,5 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-20 15:40:57.950"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-20 15:40:59.167"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-20 15:40:59.169"/>
+<log type="Test" name="PoM" status="Unresolved" closed="PoM" _guid="undefined"  at="2023-06-20 15:41:55.431" comment="Passed:0 Failed:0 Time:56.367s" />

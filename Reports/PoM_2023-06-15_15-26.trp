@@ -1,0 +1,5 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 15:26:57.944"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2023-06-15 15:26:58.565"><data type="text">Unknown scenario: Test</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\User.js,C:\Users\LQA\Documents\My Rapise Tests\PoM\User.js(undefined,undefined)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\User.js,C:\Users\LQA\Documents\My Rapise Tests\PoM\User.js(undefined,undefined)"/>
+<data type="text">undefined</data>
+</log>

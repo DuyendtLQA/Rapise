@@ -1,0 +1,2 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 14:58:16.342"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2023-06-15 14:58:16.634" comment="Error evaluating script file C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js (syntax error): SyntaxError: Invalid character" />

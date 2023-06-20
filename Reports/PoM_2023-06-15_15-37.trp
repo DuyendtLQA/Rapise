@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 15:37:35.730"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-15 15:37:36.861"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 15:37:36.863"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-15 15:37:36.866"><data type="text" caption="Exception">Error(-2147024894): </data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(9,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js(9,1)"/>
+<data type="text">Global.DoRunTestSet(Global.GetFullPath(&quot;Scripts\\TestSetCritial.js&quot;));</data>
+</log>
+<log type="Test" name="PoM" status="Fail" closed="PoM" _guid="undefined"  at="2023-06-15 15:37:36.870" comment="Passed:0 Failed:1 Time:0.128s" />

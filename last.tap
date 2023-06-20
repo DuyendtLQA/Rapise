@@ -1,0 +1,21 @@
+# TC06
+# Starting scenario: Test
+ok 1 - Play RVL@%WORKDIR%\TC06\Main.rvl.xlsx
+# Global.DoKillByPid: 8828
+ok 2 - Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx
+ok 3 - Đăng_nhập.DoClick([])
+ok 4 - user_login.DoClick([])
+ok 5 - LI.DoClick([])
+ok 6 - user_login.DoSetText(["fdsfd@gmail.com"])
+ok 7 - password.DoClick([])
+ok 8 - password.DoSetText(["FzZfPVS4wp5z@6S"])
+ok 9 - ÐĂNG_NHẬP.DoClick([])
+ok 10 - Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx
+ok 11 - product.DoClick([])
+ok 12 - btnAddCart.DoClick([])
+ok 13 - Play RVL@%WORKDIR%\Payment\Main.rvl.xlsx
+ok 14 - Đặt_hàng.DoClick([])
+not ok 15 - Object is not found: <a href='showobject'>submit</a>
+#     Failed test
+not ok 16 - TC06
+#     Failed test

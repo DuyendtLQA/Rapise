@@ -1,0 +1,10 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 11:14:24.550"/>
+<log type="Test" name="PoM" status="Info"  at="2023-06-19 11:14:25.866"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 11:14:25.870"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-19 11:14:25.872"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Error calling function openBr: &apos;undefined&apos; is null or not an object" status="Fail"  at="2023-06-19 11:14:25.915"><data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.rvl.xlsx(RVL,2,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\Main.rvl.xlsx(RVL,2,1)"/>
+</log>
+<log type="Test" name="PoM" status="Fail" closed="PoM" _guid="undefined"  at="2023-06-19 11:14:25.918" comment="Passed:1 Failed:1 Time:0.145s" />

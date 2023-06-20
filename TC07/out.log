@@ -1,0 +1,108 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###TC07 (-2)
+###Starting scenario: Test (-2)
+###Play RVL@%WORKDIR%\TC07\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\Main.rvl.xlsx
+SetRowIndex: 0:28
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC07\Main.rvl.xlsx:RVL, 29 source rows 0 errors
+Looking for object:Navigator
+###Global.DoKillByPid: 9828 (-2)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:RVL
+###Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx
+SetRowIndex: 0:28
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx:RVL, 29 source rows 0 errors
+Looking for object:Dang_nh?p
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Dang nh?p(HTMLObject)[-1]
+Dang_nh?p.DoClick([])
+###Dang_nh?p.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoClick([])
+###user_login.DoClick([]) (1)
+Action result:true
+Looking for object:LI
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:LI(HTMLObject)[-1]
+LI.DoClick([])
+###LI.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoSetText(["fdsfd@gmail.com"])
+###user_login.DoSetText(["fdsfd@gmail.com"]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoClick([])
+###password.DoClick([]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoSetText(["FzZfPVS4wp5z@6S"])
+###password.DoSetText(["FzZfPVS4wp5z@6S"]) (1)
+Action result:true
+Looking for object:DANG_NH?P
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:DANG NH?P(HTMLObject)[-1]
+DANG_NH?P.DoClick([])
+###DANG_NH?P.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx
+SetRowIndex: 0:30
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx:RVL, 31 source rows 0 errors
+Looking for object:Navigator
+###Failure in Test (0)
+Test stopped on error: Failure in Test
+###TC07 (0)
+Test execution done
+##############################################################
+Test Fail: TC07,  (Passed:10 Failed:1 Time:49.424s)
+Test Session Status: Fail Time: 50.972s
+##############################################################

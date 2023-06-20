@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-19 09:59:09.823"/>
+<log type="Test" name="TC06_e2e" status="Info"  at="2023-06-19 09:59:10.915"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-19 09:59:17.522"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-19 09:59:17.670"><data type="text" caption="Exception">TypeError(-2146823281): Object expected</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js(15,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC06_e2e\Main.js(15,1)"/>
+<data type="text">getElementbyId(&quot;user_login&quot;).sendKeys(&apos;fdsfd@gmail.com&apos;)</data>
+</log>
+<log type="Test" name="TC06_e2e" status="Fail" closed="TC06_e2e" _guid="undefined"  at="2023-06-19 09:59:17.682" comment="Passed:0 Failed:1 Time:6.845s" />

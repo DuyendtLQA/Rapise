@@ -1,0 +1,10 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 11:14:10.287"/>
+<log type="Test" name="TC04_Selenium" status="Info"  at="2023-06-16 11:14:11.428"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 11:14:17.613"/>
+<log type="Assert" name="Text found in BODY" status="Pass"  at="2023-06-16 11:14:17.721"/>
+<log type="Assert" name="class is &apos;textbox&apos;" status="Pass" comment="textbox==textbox"  at="2023-06-16 11:14:18.418"><data type="text">AssertEqual</data>
+<data type="text">textbox</data>
+<data type="text">textbox</data>
+</log>
+<log type="Test" name="TC04_Selenium" status="Pass" closed="TC04_Selenium" _guid="undefined"  at="2023-06-16 11:14:19.163" comment="Passed:2 Failed:0 Time:7.847s" />

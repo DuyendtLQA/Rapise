@@ -1,0 +1,20 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 11:01:14.964"/>
+<log type="Test" name="TC02_TestFail" status="Info"  at="2023-06-16 11:01:16.132"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js</data>
+</log>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-16 11:01:16.136"/>
+<log type="Assert" name="Attaching to spreadsheet" status="Pass"  at="2023-06-16 11:01:16.169" comment="C:\Users\LQA\Documents\My Rapise Tests\PoM\DataLogin.xlsx" />
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 11:01:22.479"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectsLogin.js" status="Info"  at="2023-06-16 11:01:22.484"/>
+<log type="Assert" name="Username.DoSetText([&quot;abc&quot;])" status="Pass"  at="2023-06-16 11:01:23.983" comment="Returned Value: true" />
+<log type="Assert" name="HTML.DoClick([])" status="Pass"  at="2023-06-16 11:01:25.353" comment="Returned Value: true" />
+<log type="Assert" name="Username.DoClick([])" status="Pass"  at="2023-06-16 11:01:26.720" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-16 11:01:28.127" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([123])" status="Pass"  at="2023-06-16 11:01:29.597" comment="Returned Value: true" />
+<log type="Assert" name="op.DoClick([])" status="Pass"  at="2023-06-16 11:01:32.918" comment="Returned Value: true" />
+<log type="Assert" name="Username.DoSetText([&quot;qweeee&quot;])" status="Pass"  at="2023-06-16 11:01:39.471" comment="Returned Value: true" />
+<log type="Assert" name="HTML.DoClick([])" status="Pass"  at="2023-06-16 11:01:40.893" comment="Returned Value: true" />
+<log type="Assert" name="Username.DoClick([])" status="Pass"  at="2023-06-16 11:01:42.327" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-16 11:01:43.739" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([34555])" status="Pass"  at="2023-06-16 11:01:45.167" comment="Returned Value: true" />
+<log type="Assert" name="op.DoClick([])" status="Pass"  at="2023-06-16 11:01:48.135" comment="Returned Value: true" />
+<log type="Test" name="TC02_TestFail" status="Pass" closed="TC02_TestFail" _guid="undefined"  at="2023-06-16 11:01:53.331" comment="Passed:13 Failed:0 Time:37.301s" />

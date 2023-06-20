@@ -1,0 +1,34 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Recorder Starting...
+
+Rapise Version:7.4.27.74
+Verbose level:1
+Recording script file:C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js
+Recording window title:regex:.* class:regex:.*
+Creating a locator:HTML
+Creating a locator:HTML FPP
+started:1686817895710
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+SeSRequestString: Browser URL returned: https://www.programsbuzz.com/user/login
+###Action[1]:Open initial URL in browser
+Using default WebAppProfile
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Attach result: Rapise WebSpy code embedded into Selenium
+Attempt: 1 obj at point:  HWND at point 920, 25: Log in - Google Chrome[Chrome_WidgetWin_1] PID:16892
+Attempt: 1 obj at point:  HWND at point 920, 25: Log in - Google Chrome[Chrome_WidgetWin_1] PID:16892
+Done:12384
+Wrote script to:C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js
+All Done, bailing out

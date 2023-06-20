@@ -1,0 +1,9 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 10:54:12.593"/>
+<log type="Test" name="TC02_TestFail" status="Info"  at="2023-06-16 10:54:13.766"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js</data>
+</log>
+<log type="Message" name="Check Home Page" status="Info"  at="2023-06-16 10:54:13.768"/>
+<log type="Assert" name="Attaching to spreadsheet" status="Pass"  at="2023-06-16 10:54:13.799" comment="C:\Users\LQA\Documents\My Rapise Tests\PoM\DataLogin.xlsx" />
+<log type="Assert" name="Failure in TestInit" status="Fail"  at="2023-06-16 10:54:13.801"><data type="text" caption="Exception">TypeError(-2146823279): &apos;user&apos; is undefined</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js(8,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC02_TestFail\Main.js(8,1)"/>
+<data type="text">dataLogin = getDataLogin()</data>
+</log>

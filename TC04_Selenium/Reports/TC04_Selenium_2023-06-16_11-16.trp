@@ -1,0 +1,14 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-16 11:16:13.054"/>
+<log type="Test" name="TC04_Selenium" status="Info"  at="2023-06-16 11:16:14.213"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-16 11:16:19.729"/>
+<log type="Assert" name="Text found in BODY" status="Pass"  at="2023-06-16 11:16:19.798"/>
+<log type="Assert" name="class is &apos;textbox&apos;" status="Pass" comment="textbox==textbox"  at="2023-06-16 11:16:20.530"><data type="text">AssertEqual</data>
+<data type="text">textbox</data>
+<data type="text">textbox</data>
+</log>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2023-06-16 11:16:21.115"><data type="text" caption="Exception">TypeError(-2146823281): &apos;WebDriver.SwitchToAlert().alertElement&apos; is null or not an object</data>
+<data type="link" url="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\Main.js(25,1)" text="C:\Users\LQA\Documents\My Rapise Tests\PoM\TC04_Selenium\Main.js(25,1)"/>
+<data type="text">WebDriver.SwitchToAlert().alertElement.Accept();</data>
+</log>
+<log type="Test" name="TC04_Selenium" status="Fail" closed="TC04_Selenium" _guid="undefined"  at="2023-06-16 11:16:21.261" comment="Passed:2 Failed:1 Time:7.167s" />

@@ -1,0 +1,222 @@
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###TC08 (-2)
+###Starting scenario: Test (-2)
+###Play RVL@%WORKDIR%\TC08\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.rvl.xlsx
+SetRowIndex: 0:40
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC08\Main.rvl.xlsx:RVL, 41 source rows 0 errors
+Looking for object:Navigator
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:RVL
+###Play RVL@%WORKDIR%\\LoginPass\\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx
+SetRowIndex: 0:28
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\LoginPass\Main.rvl.xlsx:RVL, 29 source rows 0 errors
+Looking for object:Dang_nh?p
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Dang nh?p(HTMLObject)[-1]
+Dang_nh?p.DoClick([])
+###Dang_nh?p.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoClick([])
+###user_login.DoClick([]) (1)
+Action result:true
+Looking for object:LI
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:LI(HTMLObject)[-1]
+LI.DoClick([])
+###LI.DoClick([]) (1)
+Action result:true
+Looking for object:user_login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:user_login(HTMLObject)[-1]
+user_login.DoSetText(["fdsfd@gmail.com"])
+###user_login.DoSetText(["fdsfd@gmail.com"]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoClick([])
+###password.DoClick([]) (1)
+Action result:true
+Looking for object:password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:password(HTMLObject)[-1]
+password.DoSetText(["FzZfPVS4wp5z@6S"])
+###password.DoSetText(["FzZfPVS4wp5z@6S"]) (1)
+Action result:true
+Looking for object:DANG_NH?P
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:DANG NH?P(HTMLObject)[-1]
+DANG_NH?P.DoClick([])
+###DANG_NH?P.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx
+SetRowIndex: 0:29
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx:RVL, 30 source rows 0 errors
+Looking for object:Navigator
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:product
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:DIV(HTMLObject)[-1]
+product.DoClick([])
+###product.DoClick([]) (1)
+Action result:true
+Looking for object:btnAddCart
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:THEM VAO GI? HANG(HTMLObject)[-1]
+btnAddCart.DoClick([])
+###btnAddCart.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\AddProducts\Main.rvl.xlsx (1)
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\AddProducts\Main.rvl.xlsx:RVL, 30 source rows 0 errors
+Looking for object:Navigator
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:product
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:DIV(HTMLObject)[-1]
+product.DoClick([])
+###product.DoClick([]) (1)
+Action result:true
+Looking for object:btnAddCart
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:THEM VAO GI? HANG(HTMLObject)[-1]
+btnAddCart.DoClick([])
+###btnAddCart.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+Looking for object:RVL
+###Play RVL@%WORKDIR%\EditInforPayment\Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\Main.rvl.xlsx
+SetRowIndex: 0:24
+Playing script: Script: C:\Users\LQA\Documents\My Rapise Tests\PoM\EditInforPayment\Main.rvl.xlsx:RVL, 25 source rows 0 errors
+Looking for object:S?a_d?a_ch?
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:2(HTMLObject)[-1]
+S?a_d?a_ch?.DoClick([])
+error: mousemove: element not interactable:  has no size and location
+  (Session info: chrome=114.0.5735.134)
+error: click: element not interactable
+  (Session info: chrome=114.0.5735.134)
+###S?a_d?a_ch?.DoClick([]) (1)
+Action result:true
+Looking for object:H?_tˆn
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Object is NOT available on screen:H?_tˆn (H? tˆn)
+###Object is not found: <a href='showobject'>H?_tˆn</a> (0)
+Test stopped on error: Object is not found: <a href='showobject'>H?_tˆn</a>
+###TC08 (0)
+Test execution done
+##############################################################
+Test Fail: TC08,  (Passed:17 Failed:1 Time:47.789s)
+Test Session Status: Fail Time: 49.562s
+##############################################################

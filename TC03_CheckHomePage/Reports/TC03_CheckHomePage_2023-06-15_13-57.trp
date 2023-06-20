@@ -1,0 +1,12 @@
+<log type="Session" name="TEST-DUYENDT-PC:LQA" at="2023-06-15 13:57:26.089"/>
+<log type="Test" name="TC03_CheckHomePage" status="Info"  at="2023-06-15 13:57:27.316"><data type="text">Test Started: C:\Users\LQA\Documents\My Rapise Tests\PoM\TC03_CheckHomePage\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-15 13:57:27.318"/>
+<log type="Message" name="Global.DoLoadObjects: ObjectLocator.js" status="Info"  at="2023-06-15 13:57:27.322"/>
+<log type="Assert" name="Username.DoSetText([&quot;abc&quot;])" status="Pass"  at="2023-06-15 13:57:36.225" comment="Returned Value: true" />
+<log type="Assert" name="HTML.DoClick([])" status="Pass"  at="2023-06-15 13:57:37.695" comment="Returned Value: true" />
+<log type="Assert" name="Username.DoClick([])" status="Pass"  at="2023-06-15 13:57:39.122" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-15 13:57:40.555" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;123&quot;])" status="Pass"  at="2023-06-15 13:57:41.975" comment="Returned Value: true" />
+<log type="Assert" name="op.DoClick([])" status="Pass"  at="2023-06-15 13:57:45.027" comment="Returned Value: true" />
+<log type="Test" name="TC03_CheckHomePage" status="Pass" closed="TC03_CheckHomePage" _guid="undefined"  at="2023-06-15 13:57:50.283" comment="Passed:6 Failed:0 Time:23.057s" />
